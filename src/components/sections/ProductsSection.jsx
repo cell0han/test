@@ -39,7 +39,7 @@ const ProductsSection = ({ products }) => {
           viewport={{ once: true }}
         >
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-            Шилдэг программ хангамж
+            Шинэ программ хангамж
           </h2>
           <p className="text-lg sm:text-xl text-gray-600 max-w-3xl mx-auto">
             Мэргэжлийн хөгжүүлэгчдийн бүтээсэн, олон мянган хэрэглэгчийн итгэсэн программууд
